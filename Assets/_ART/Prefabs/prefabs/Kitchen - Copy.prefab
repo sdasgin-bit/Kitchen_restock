@@ -6378,7 +6378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4852196824782598533}
   m_Layer: 0
-  m_Name: Kitchen
+  m_Name: Kitchen - Copy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
